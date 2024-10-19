@@ -19,7 +19,7 @@ pip install pygame
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/Hangman.git
+git clone https://github.com/1BYDH8/Hangman-Game
 cd Hangman
 ```
 
